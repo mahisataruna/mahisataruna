@@ -1,3 +1,7 @@
+<!--<p align="center">
+  <img src="https://github.com/xyzuan/xyzuan/raw/master/git.png"><br>
+</p>-->
+
 # Hi there 👋 , I'm Taruna!
 I build lots of demos on this account and the [@kreapic](https://github.com/kreapic) organization.
 
