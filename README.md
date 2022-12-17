@@ -37,7 +37,7 @@ I build lots of demos on this account and the [@kreapic](https://github.com/krea
     <a href="https://medium.com/@mahisataruna" target="blank"><img src="https://img.shields.io/badge/Mahisa_Taruna-30302f?style=flat&logo=medium" /></a>
 </p>
 
-### Out blog :
+### Our blog :
 <p>
   <a href="https://kreapic.blogspot.com" target="blank"><img src="https://img.shields.io/badge/Kreapic_Media-30302f?style=flat&logo=blogger" /></a>
 </p>
