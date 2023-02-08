@@ -6,12 +6,16 @@ I build lots of demos on this account and the [@kreapic](https://github.com/krea
 
 ### Tools:
 <p>
-    <img src="https://img.shields.io/badge/OS-Ubuntu-blue?&logo=ubuntu" />
+    <img src="https://img.shields.io/badge/OS-Ubuntu-yellow?&logo=ubuntu" />
+    <img src="https://img.shields.io/badge/OS-Windows-yellow?&logo=windows" />
     <img src="https://img.shields.io/badge/Tools-GitHub-blue?&logo=github" />
-    <img src="https://img.shields.io/badge/Tools-Figma-blue?&logo=figma" />
-    <img src="https://img.shields.io/badge/Tools-Adobe XD-blue?&logo=adobexd" />
+    <img src="https://img.shields.io/badge/Design-Figma-blue?&logo=figma" />
+    <img src="https://img.shields.io/badge/Design-Adobe XD-blue?&logo=adobexd" />
+    <img src="https://img.shields.io/badge/Code-JavaScript-blue?&logo=javascript" />
     <img src="https://img.shields.io/badge/Code-PHP-blue?&logo=php" />
-    <img src="https://img.shields.io/badge/IDE-Android Studio-blue?&logo=android" />
+    <img src="https://img.shields.io/badge/Code-Python-blue?&logo=python" />
+    <img src="https://img.shields.io/badge/Framework-CodeIgniter-blue?&logo=codeigniter" />
+    <img src="https://img.shields.io/badge/IDE-Android Studio-gray?&logo=android" />
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
 </p>
 
@@ -22,7 +26,6 @@ I build lots of demos on this account and the [@kreapic](https://github.com/krea
     - 👯 I’m looking to collaborate on Automation Project, Website and Mobile App. </br>
     - 📫 How to reach me: <a href="mahisataruna4@gmail.com">Email me!</a>  </br>
     - 😄 Pronouns: He/Him </br>
-    - ⚡ Fun fact: ... </br>
 </details>
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=mahisataruna&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
