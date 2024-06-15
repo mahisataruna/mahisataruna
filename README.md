@@ -6,7 +6,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mahisataruna&layout=donut&theme=holi)
 
 ## Tools :
-[![](https://skillicons.dev/icons?i=js,ts,html,css,php,nodejs,aws,windows,ubuntu,kali,react,vercel&perline=9)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=php,mysql,js,ts,html,css,nodejs,aws,windows,ubuntu,kali,react,vercel,vscode&perline=12)](https://skillicons.dev)
 
 
 ## ✉️ Reach me :
