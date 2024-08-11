@@ -23,4 +23,4 @@
 
 ## Dukungan :
 
-<a href="https://trakteer.id/algorithmdev" target="_blank"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-red-1.png?date=18-11-2023" height="30" style="border: 0px; height: 30px;" alt="Trakteer Saya"></a>
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y311ON1P)
